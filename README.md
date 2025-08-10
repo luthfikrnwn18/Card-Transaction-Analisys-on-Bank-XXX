@@ -26,6 +26,8 @@ This project uses several data tables that were joined:
 | `mbsu_data_analyst_test.transaction_data` | Transaction history data. |
 
 > **Note:** For this analysis, we only used transaction data from **2019** to formulate a strategy for 2020.
+* **Dump SQL File : Structure & Data (Google Drive):**
+    [![Google Drive](https://img.shields.io/badge/Files-Google%20Drive-orange)](https://drive.google.com/drive/folders/1j3RWvQlhqyWvl7Xq3Yh-wWkSJ0VSGPOg?usp=sharing)
 
 ---
 
@@ -87,7 +89,6 @@ SELECT
 FROM transactions_data_2019
 GROUP BY transaction_month, merchant_id, merchant_city, merchant_state;
 ```
-
 ### 📈 Results & Visualizations
 
 Here are the links to the visualization and presentation of this analysis.
@@ -96,3 +97,6 @@ Here are the links to the visualization and presentation of this analysis.
     [![Google Slides Presentation](https://img.shields.io/badge/Presentation-Google%20Slides-brightgreen)](https://docs.google.com/presentation/d/1g6xXD_NYIIjrQ5XNkw3nwJ9XIS4Rvc1cOjNuw81AI9E/edit?usp=sharing)
 * **Dashboard (Looker Studio):**
     [![Looker Studio Dashboard](https://img.shields.io/badge/Dashboard-Looker%20Studio-blue)](https://lookerstudio.google.com/reporting/be01a6d3-2a82-46a5-92bc-ab68abb14a6a)
+
+
+

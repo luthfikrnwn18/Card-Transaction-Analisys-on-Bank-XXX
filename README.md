@@ -88,10 +88,11 @@ FROM transactions_data_2019
 GROUP BY transaction_month, merchant_id, merchant_city, merchant_state;
 ```
 
-
-📈 Results & Visualizations
+### 📈 Results & Visualizations
 
 Here are the links to the visualization and presentation of this analysis.
 
-    Presentation (Google Slides): https://docs.google.com/presentation/d/1g6xXD_NYIIjrQ5XNkw3nwJ9XIS4Rvc1cOjNuw81AI9E/edit?usp=sharing
-    Dashboard (Looker Studio): https://lookerstudio.google.com/reporting/be01a6d3-2a82-46a5-92bc-ab68abb14a6a
+* **Presentation (Google Slides):**
+    [![Google Slides Presentation](https://img.shields.io/badge/Presentation-Google%20Slides-brightgreen)](https://docs.google.com/presentation/d/1g6xXD_NYIIjrQ5XNkw3nwJ9XIS4Rvc1cOjNuw81AI9E/edit?usp=sharing)
+* **Dashboard (Looker Studio):**
+    [![Looker Studio Dashboard](https://img.shields.io/badge/Dashboard-Looker%20Studio-blue)](https://lookerstudio.google.com/reporting/be01a6d3-2a82-46a5-92bc-ab68abb14a6a)

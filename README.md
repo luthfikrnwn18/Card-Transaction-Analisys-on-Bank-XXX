@@ -1,4 +1,4 @@
-# 📊 Bank XXX Card Transaction Analysis
+# 📊 Bank XXX Card Transaction Analisys
 
 ## Data Analyst - Technical Test by Luthfi Kurniawan
 
